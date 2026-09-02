@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Raheem 👋</h1>
-<h3 align="center">NLP & LLM Engineer — I build production-ready AI agents, chatbots, and machine learning systems</h3>
+<h3 align="center">AI/ML Engineer — I build production-ready AI agents, chatbots, and machine learning systems</h3>
 
 <p align="center">
   Open to <b>freelance/contract work</b> and <b>full-time roles</b> in Machine Learning, Deep Learning, and Applied AI.
